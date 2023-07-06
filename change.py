@@ -1,3 +1,3 @@
-print("boo")
+print("wow")
 for i in range(1, 14):
     print(i)
